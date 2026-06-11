@@ -1,45 +1,97 @@
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=DF561F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lucca+Pivoto+%F0%9F%91%8B;iOS+Developer+%F0%9F%8D%8E;Always+learning%2C+always+building;Let's+connect%F0%9F%91%87" alt="Typing SVG" />
+
+<br/>
+
+[![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LuccaPV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccapivoto/)
+![Visitors](https://komarev.com/ghpvc/?username=LuccaPV&style=for-the-badge&color=FA7343&label=VISITORS)
+
 </div>
 
 ###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/lucca_.pv_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/LuccaPivoto" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 👨‍💻 Who am I?
+
+```swift
+let lucca = Developer(
+    name:      "Lucca Pivoto",
+    education: "Information Systems @ Mackenzie",
+    community: "Apple Developer Academy",
+    focus:     ["iOS", "Swift", "AI/ML"],
+    currently: "Building cool apps for iOS"
+)
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Mobile**
+
+<a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift"/></a>
+
+**Frontend**
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img height="48" src="https://skillicons.dev/icons?i=html"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img height="48" src="https://skillicons.dev/icons?i=css"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="48" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://react.dev" title="React"><img height="48" src="https://skillicons.dev/icons?i=react"/></a>
+<a href="https://nextjs.org" title="Next.js"><img height="48" src="https://skillicons.dev/icons?i=nextjs"/></a>
+
+**Backend**
+
+<a href="https://dev.java" title="Java"><img height="48" src="https://skillicons.dev/icons?i=java"/></a>
+<a href="https://nodejs.org" title="Node.js"><img height="48" src="https://skillicons.dev/icons?i=nodejs"/></a>
+<a href="https://www.djangoproject.com" title="Django"><img height="48" src="https://skillicons.dev/icons?i=django"/></a>
+
+**Databases**
+
+<a href="https://www.mysql.com" title="MySQL"><img height="48" src="https://skillicons.dev/icons?i=mysql"/></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img height="48" src="https://skillicons.dev/icons?i=postgres"/></a>
+
+**Cloud & DevOps**
+
+<a href="https://aws.amazon.com" title="AWS"><img height="48" src="https://skillicons.dev/icons?i=aws"/></a>
+<a href="https://cloud.google.com" title="Google Cloud"><img height="48" src="https://skillicons.dev/icons?i=gcp"/></a>
+<a href="https://www.docker.com" title="Docker"><img height="48" src="https://skillicons.dev/icons?i=docker"/></a>
+
+**Data & AI**
+
+<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python"/></a>
+<a href="https://www.anaconda.com" title="Anaconda"><img height="48" src="https://skillicons.dev/icons?i=anaconda"/></a>
+<a href="https://www.r-project.org" title="R"><img height="48" src="https://skillicons.dev/icons?i=r"/></a>
+
+**Editors & Version Control**
+
+<a href="https://code.visualstudio.com" title="VS Code"><img height="48" src="https://skillicons.dev/icons?i=vscode"/></a>
+<a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git"/></a>
+<a href="https://github.com" title="GitHub"><img height="48" src="https://skillicons.dev/icons?i=github"/></a>
+
+**Shell & Operating Systems**
+
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img height="48" src="https://skillicons.dev/icons?i=bash"/></a>
+<a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img height="48" src="https://skillicons.dev/icons?i=powershell"/></a>
+<a href="https://www.kernel.org" title="Linux"><img height="48" src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="https://www.microsoft.com/windows" title="Windows"><img height="48" src="https://skillicons.dev/icons?i=windows"/></a>
+<a href="https://developer.apple.com" title="Apple"><img height="48" src="https://skillicons.dev/icons?i=apple"/></a>
+
+**Design & Testing**
+
+<a href="https://www.figma.com" title="Figma"><img height="48" src="https://skillicons.dev/icons?i=figma"/></a>
+<a href="https://www.postman.com" title="Postman"><img height="48" src="https://skillicons.dev/icons?i=postman"/></a>
+
+**Community & Docs**
+
+<a href="https://discord.com" title="Discord"><img height="48" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.linkedin.com/in/luccapivoto/" title="LinkedIn — Lucca Pivoto"><img height="48" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.markdownguide.org" title="Markdown"><img height="48" src="https://skillicons.dev/icons?i=markdown"/></a>
+<a href="https://stackoverflow.com" title="Stack Overflow"><img height="48" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
+
 </div>
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccaPV/LuccaPV/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccaPV/LuccaPV/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/luccaPV/LuccaPV/output/github-snake.svg" />
-</picture>
+---
